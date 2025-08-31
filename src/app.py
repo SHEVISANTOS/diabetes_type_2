@@ -74,3 +74,4 @@ if submitted:
 # Footer
 st.markdown("---")
 st.caption("💡 *Model based on clinical data. Not a medical diagnosis.*")
+st.caption("💡 *Developed by Shevi_santos.*")
